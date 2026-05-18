@@ -12,20 +12,14 @@ Follow the explanations:
 
 # Environment install:
 
-<!-- ## 0) Install micromamba (recommended, otherwise you can use conda) -->
+## 0) Install micromamba (recommended, otherwise you can use conda)
 
-<!-- 
-### Linux install
-`curl -L https://micro.mamba.pm/install.sh | bash` -->
+Follow the tutorial here depending on your OS:
 
-<!-- ### MAC os
-`brew install micromamba`
-
-<!-- ### Windows install -->
-<!-- `Invoke-Expression ((Invoke-WebRequest -Uri https://micro.mamba.pm/install.ps1).Content)` -->
+`https://mamba.readthedocs.io/en/latest/installation/micromamba-installation.html`
 
 ## 1) Confirm installation
-To confirm micromamba is installed correctly: -->
+To confirm micromamba is installed correctly:
 
 `micromamba --version`
 
