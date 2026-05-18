@@ -12,11 +12,11 @@ Follow the explanations:
 
 # Environment install:
 
-## 0) Install micromamba (recommended, otherwise you can use conda)
+<!-- ## 0) Install micromamba (recommended, otherwise you can use conda) -->
 
-
+<!-- 
 ### Linux install
-`curl -L https://micro.mamba.pm/install.sh | bash`
+`curl -L https://micro.mamba.pm/install.sh | bash` -->
 
 <!-- ### MAC os
 `brew install micromamba`
