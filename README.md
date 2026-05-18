@@ -18,14 +18,14 @@ Follow the explanations:
 ### Linux install
 `curl -L https://micro.mamba.pm/install.sh | bash`
 
-### MAC os
+<!-- ### MAC os
 `brew install micromamba`
 
 <!-- ### Windows install -->
 <!-- `Invoke-Expression ((Invoke-WebRequest -Uri https://micro.mamba.pm/install.ps1).Content)` -->
 
 ## 1) Confirm installation
-To confirm micromamba is installed correctly:
+To confirm micromamba is installed correctly: -->
 
 `micromamba --version`
 
