@@ -21,8 +21,8 @@ Follow the explanations:
 ### MAC os
 `brew install micromamba`
 
-### Windows install
-`Invoke-Expression ((Invoke-WebRequest -Uri https://micro.mamba.pm/install.ps1).Content)`
+<!-- ### Windows install -->
+<!-- `Invoke-Expression ((Invoke-WebRequest -Uri https://micro.mamba.pm/install.ps1).Content)` -->
 
 ## 1) Confirm installation
 To confirm micromamba is installed correctly:
