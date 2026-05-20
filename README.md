@@ -1,4 +1,4 @@
-# Welcome to the REAME of the VHIO academy Introdcution to Deep Learning course!
+# Welcome to the README of the VHIO academy Introdcution to Deep Learning course!
 
 You can find here the slides of the course, and the notebooks used during the course.
 
